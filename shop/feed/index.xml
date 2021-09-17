@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; Bienes Raices</title>
+	<atom:link href="/shop/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Venta de Casa y Departamentos</description>
+	<lastBuildDate>Mon, 13 Sep 2021 16:54:30 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>CASA CON ALBERCA</title>
+		<link>/product/casa-con-alberca-2/</link>
+		
+		<dc:creator><![CDATA[AREYES]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 16:51:18 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=336</guid>
+
+					<description><![CDATA[CASA CON ALBERCA, ACABADOS DE LUJO A UN EXCELENTE PRECIO]]></description>
+										<content:encoded><![CDATA[CASA CON ALBERCA, ACABADOS DE LUJO A UN EXCELENTE PRECIO]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CASA FRENTE AL BOSQUE</title>
+		<link>/product/casa-frente-al-bosque/</link>
+		
+		<dc:creator><![CDATA[AREYES]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 16:44:08 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=334</guid>
+
+					<description><![CDATA[CASA CON ALBERCA FRENTE AL BOSQUE, EXCELENTE OPORTUNIDAD]]></description>
+										<content:encoded><![CDATA[CASA CON ALBERCA FRENTE AL BOSQUE, EXCELENTE OPORTUNIDAD]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CASA FUERA DE LA CIUDAD</title>
+		<link>/product/casa-fuera-de-la-ciudad/</link>
+		
+		<dc:creator><![CDATA[AREYES]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 16:40:55 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=332</guid>
+
+					<description><![CDATA[CASA CON ALBERCA Y ACABADOS DE LUJO FUERA DE LA CIUDAD, EXCELENTE OPORTUNIDAD]]></description>
+										<content:encoded><![CDATA[CASA CON ALBERCA Y ACABADOS DE LUJO FUERA DE LA CIUDAD, EXCELENTE OPORTUNIDAD]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CASA CON ALBERCA</title>
+		<link>/product/casa-con-alberca/</link>
+		
+		<dc:creator><![CDATA[AREYES]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 16:37:30 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=330</guid>
+
+					<description><![CDATA[CASA CON ALBERCA Y ACABADOS DE LUJO EN LA CIUDAD, EXCELENTE OPORTUNIDAD]]></description>
+										<content:encoded><![CDATA[CASA CON ALBERCA Y ACABADOS DE LUJO EN LA CIUDAD, EXCELENTE OPORTUNIDAD]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CASA TERMINADOS DE LUJO</title>
+		<link>/product/casa-terminados-de-lujo/</link>
+		
+		<dc:creator><![CDATA[AREYES]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 16:32:48 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=327</guid>
+
+					<description><![CDATA[CASA CON DISEÑO MODERNO, ASI COMO TECNOLOGIA INTELIGENTE Y AMUEBLADA]]></description>
+										<content:encoded><![CDATA[CASA CON DISEÑO MODERNO, ASI COMO TECNOLOGIA INTELIGENTE Y AMUEBLADA]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CASA DE LUJO EN EL LAGO</title>
+		<link>/product/casa-de-lujo-en-el-lago/</link>
+		
+		<dc:creator><![CDATA[AREYES]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 16:05:24 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=319</guid>
+
+					<description><![CDATA[CASA EN EL LAGO CON EXCELENTE VISTA, ACABADOS DE LUJO A EXCELENTE PRECIO]]></description>
+										<content:encoded><![CDATA[CASA EN EL LAGO CON EXCELENTE VISTA, ACABADOS DE LUJO A EXCELENTE PRECIO]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
